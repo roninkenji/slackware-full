@@ -1,3 +1,3 @@
-# sbo-builder
-Slackbuilds builder container
+# slackware-full
+Slackware full install container
 
